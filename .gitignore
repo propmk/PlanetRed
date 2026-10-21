@@ -1,0 +1,80 @@
+
+# ==========================================
+# Unity Generated Files
+# ==========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# ==========================================
+# Unity Asset Pipeline
+# ==========================================
+
+.vs/
+.consulo/
+ExportedObj/
+StreamingAssets/*.tmp
+
+# ==========================================
+# IDE & Editor
+# ==========================================
+
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# ==========================================
+# Unity Crash Reports
+# ==========================================
+
+sysinfo.txt
+crashlytics-build.properties
+
+# ==========================================
+# Build Outputs
+# ==========================================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Miscellaneous
+# ==========================================
+
+*.tmp
+*.bak
+*.swp
+*.orig
