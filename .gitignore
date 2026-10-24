@@ -1,33 +1,19 @@
 
-# ==========================================
-# Unity Generated Files
-# ==========================================
-
+# Unity generated directories
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Ll]ogs/
 [Bb]uild/
 [Bb]uilds/
-[Ll]ogs/
+[Uu]nity[Bb]uilds/
+[Mm]emoryCaptures/
+[Rr]ecordings/
 [Uu]ser[Ss]ettings/
-MemoryCaptures/
-Recordings/
 
-# ==========================================
-# Unity Asset Pipeline
-# ==========================================
-
+# IDE generated files
 .vs/
-.consulo/
-ExportedObj/
-StreamingAssets/*.tmp
-
-# ==========================================
-# IDE & Editor
-# ==========================================
-
 .idea/
-.vscode/
 *.csproj
 *.sln
 *.suo
@@ -42,17 +28,11 @@ StreamingAssets/*.tmp
 *.VC.db
 *.VC.VC.opendb
 
-# ==========================================
-# Unity Crash Reports
-# ==========================================
-
+# Unity generated files
 sysinfo.txt
 crashlytics-build.properties
 
-# ==========================================
-# Build Outputs
-# ==========================================
-
+# Build artifacts
 *.apk
 *.aab
 *.unitypackage
@@ -62,18 +42,12 @@ crashlytics-build.properties
 *.so
 *.dylib
 
-# ==========================================
-# OS Generated Files
-# ==========================================
-
+# OS generated files
 .DS_Store
 Thumbs.db
 Desktop.ini
 
-# ==========================================
-# Miscellaneous
-# ==========================================
-
+# Temporary files
 *.tmp
 *.bak
 *.swp
