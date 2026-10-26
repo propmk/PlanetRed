@@ -42,6 +42,16 @@ crashlytics-build.properties
 *.so
 *.dylib
 
+# Large binary assets
+*.fbx
+*.obj
+*.tga
+*.tif
+*.tiff
+*.psd
+*.wav
+*.mp3
+
 # OS generated files
 .DS_Store
 Thumbs.db
