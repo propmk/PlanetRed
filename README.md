@@ -4,6 +4,14 @@ A Junior Astronaut Mission Trainer. An Interactive Mars Survival & Outpost Manag
 
 ![Planet Red Gameplay Screenshot](https://assets.spaceappschallenge.org/media/images/Screenshot_2026-11-16_014936.width-1024.png)
 
+<div align="center">
+  <img src="https://img.shields.io/github/license/propmk/PlanetRed" alt="License" />
+  <img src="https://img.shields.io/github/stars/propmk/PlanetRed" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/propmk/PlanetRed" alt="Forks" />
+  <img src="https://img.shields.io/github/repo-size/propmk/PlanetRed" alt="Repo Size" />
+  <img src="https://img.shields.io/github/languages/count/propmk/PlanetRed" alt="Language Count" />
+</div>
+
 ---
 
 ## About the Team
