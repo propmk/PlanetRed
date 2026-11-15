@@ -12,7 +12,7 @@ A Junior Astronaut Mission Trainer. An Interactive Mars Survival & Outpost Manag
 
 *A team of passionate individuals trying to make resource management and survival on a Martian outpost more tangible, fun, and accessible for young learners through our game.*
 
-<img src="https://github.com/propmk/PlanetRed/Assets/repoassets/vingrohi.png">
+![Team Vingrohi](https://github.com/propmk/PlanetRed/Assets/repoassets/vingrohi.png)
 
 
 ## About Planet Red
