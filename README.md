@@ -107,9 +107,7 @@ We are grateful to the NASA Space Apps Challenge for providing a platform where 
 ---
 
 <p align="center">
-  <b>PLANET RED</b>
-  
-  *Explore. Learn. Survive.*
-  
-  Developed with curiosity by **Team Vingrohi**.
+  <b>PLANET RED</b><br>
+  <i>Explore. Learn. Survive.</i><br>
+  Developed with curiosity by <b>Team Vingrohi</b>.
 </p>
