@@ -7,7 +7,7 @@ A Junior Astronaut Mission Trainer. An Interactive Mars Survival & Outpost Manag
 </p>
 <p align="center" style="opacity: 0.5">[Click the button above to play it in your browser]</p>
 
-![Planet Red Gameplay Screenshot](https://assets.spaceappschallenge.org/media/images/Screenshot_2026-11-16_014936.width-1024.png)
+![Planet Red Gameplay Screenshot](Assets/repoassets/gameplayimage1.png)
 
 <div align="center">
   <img src="https://img.shields.io/github/license/propmk/PlanetRed" alt="License" />
