@@ -5,7 +5,7 @@ A Junior Astronaut Mission Trainer. An Interactive Mars Survival & Outpost Manag
 <p align="center">
   <a href="https://play.unity.com/en/games/aa980704-33ef-4bae-a59a-4aebfdded96a/planet-red"><img src="Assets/repoassets/PlayItNow.png" alt="Play It Now" width="500" style="max-width: 500px; max-height: 110px; width: 50%; height: auto;"></a>
 </p>
-<p align="center" style="opacity: 0.5">[Click the button above to play it in your browser]</p>
+<p align="center">[Click the button above to play it in your browser]</p>
 
 ![Planet Red Gameplay Screenshot](Assets/repoassets/gameplayimage1.png)
 
